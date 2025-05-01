@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Azure Functions artifacts
+local.settings.json
+
+# IDE
+.vscode/
+.idea/
+
+# Model files
+models/*.pkl
+
+# Logs
+*.log
+
+# Local development
+instance/
+.webassets-cache
+
+# Preprocessed data
+preprocessed_career_data.csv
